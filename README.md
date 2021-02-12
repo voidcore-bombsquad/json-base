@@ -1,2 +1,2 @@
-# json-base
-Json-based files container
+# addons
+Addons container
