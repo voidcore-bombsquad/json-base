@@ -1,10 +1,8 @@
 {
-  "addons": {
-    "example": {
-      "name": "example",
-      "desc": "Example description",
-      "filesize": 275,
-      "latest_version": "0.0.1"
-    }
+  "example": {
+    "name": "example",
+    "desc": "Example description",
+    "filesize": 275,
+    "latest_version": "0.0.1"
   }
 }
